@@ -1,8 +1,9 @@
 package com.armton.study.service;
 
+import javax.annotation.PostConstruct;
+
 import org.springframework.stereotype.Service;
 
-import jakarta.annotation.PostConstruct;
 
 @Service
 public class HelloWorld {
